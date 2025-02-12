@@ -28,8 +28,8 @@ This repository contains advanced C++ implementations covering various topics, i
    - **Optimization**: Enable `/O2` for release builds  
 5. Build and run the project via **Ctrl + F5**.  
 
-## **Contributing**
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
 ## **License**
 This project is licensed under the MIT License.
+
+---
+**Author:** Miray Dicle
