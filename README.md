@@ -29,7 +29,7 @@ This repository contains advanced C++ implementations covering various topics, i
 5. Build and run the project via **Ctrl + F5**.  
 
 ## **License**
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 ---
 **Author:** Miray Dicle
