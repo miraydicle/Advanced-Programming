@@ -18,7 +18,7 @@ This repository contains advanced C++ implementations covering various topics, i
 1. Clone the repository:  
    ```bash
    git clone https://github.com/miraydicle/Advanced-Programming.git
-   cd Advanced-CPP
+   cd Advanced-Programming
    ```
 2. Open **Visual Studio 2012** and create a new C++ project.  
 3. Add the necessary `.cpp` and `.h` files to the project.  
