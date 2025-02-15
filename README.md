@@ -17,7 +17,7 @@ This repository contains advanced C++ implementations covering various topics, i
 ### **Setup & Build (Visual Studio 2012)**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Advanced-CPP.git
+   git clone https://github.com/miraydicle/Advanced-Programming.git
    cd Advanced-CPP
    ```
 2. Open **Visual Studio 2012** and create a new C++ project.  
